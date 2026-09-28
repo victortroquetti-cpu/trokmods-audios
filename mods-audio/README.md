@@ -5,9 +5,11 @@ A página lê o `armas.json`, que o `ferramentas/indice-mods-audio.js` do blog m
 
 ## Como entra um mod
 
+As pastas das armas ficam direto aqui em `mods-audio`.
+
 ```
-mods-audio/armas/<arma>/<mod>/AK_SHOT_L.wav
-mods-audio/armas/<arma>/<mod>/info.txt
+mods-audio/<arma>/<mod>/AK_SHOT_L.wav
+mods-audio/<arma>/<mod>/info.txt
 ```
 
 - **`<arma>`**: `pistola-9mm`, `pistola-com-silenciador`, `desert-eagle`, `shotgun`, `sawn-off`, `combat-shotgun`, `uzi`,
