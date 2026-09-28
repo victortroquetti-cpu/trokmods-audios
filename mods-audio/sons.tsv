@@ -177,8 +177,8 @@ armas/deagle-9mm/tiro-91.wav	Tiro 91	deagle-9mm	tiro	008	deagle-9mm			sound_008-
 armas/deagle-9mm/tiro-92.wav	Tiro 92	deagle-9mm	tiro	008	deagle-9mm			sound_008.wav	
 armas/mp5/tiro-01.wav	Tiro 01	mp5	tiro	018	mp5			sound_018 (1).wav	
 armas/mp5/tiro-02.wav	Tiro 02	mp5	tiro	018	mp5			sound_018 (2).wav	
-armas/mp5/tiro-03.wav	Tiro 03	mp5	tiro	019	mp5,ak-m4			sound_019 (1).wav | M4 777.mp3 | MP5.mp3	
-armas/mp5/tiro-04.wav	Tiro 04	mp5	tiro	019	mp5			sound_019.wav	
+hitsound/hitsound-23.wav	Hitsound 23	hitsound	hitsound					sound_019 (1).wav | M4 777.mp3 | MP5.mp3	
+hitsound/hitsound-24.wav	Hitsound 24	hitsound	hitsound					sound_019.wav	
 armas/shotgun/tiro-05.wav	Tiro 05	shotgun	tiro	022	shotgun			sound_022 (1).wav	
 armas/shotgun/tiro-06.wav	Tiro 06	shotgun	tiro	022	shotgun,deagle-9mm			sound_022 (3).wav | sound_007z (18).wav | sound_023 (1).wav	
 armas/shotgun/tiro-07.wav	Tiro 07	shotgun	tiro	022	shotgun			sound_022 (4).wav	
