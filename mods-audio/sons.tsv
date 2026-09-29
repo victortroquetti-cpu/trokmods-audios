@@ -231,7 +231,7 @@ headshot/headshot-02.wav	Headshot 02	headshot	hitsound					Hit.1.wav | Hit.1.mp3
 headshot/headshot-03.wav	Headshot 03	headshot	hitsound					sound_003.wav	
 sirenes/gta-iii/sirene-longa.wav	Sirene longa	sirene-gta-iii	sirene	011				sirenes/GTA III/sound_011.wav	
 sirenes/gta-iii/sirene-curta.wav	Sirene curta	sirene-gta-iii	sirene	012				sirenes/GTA III/sound_012.wav	
-sirenes/gta-iii-outra/sirene-longa.wav	Sirene longa	sirene-gta-iii-outra	sirene	011				sirenes/GTA III qual é o verdadeiro/sound_011.wav	
-sirenes/gta-iii-outra/sirene-curta.wav	Sirene curta	sirene-gta-iii-outra	sirene	012				sirenes/GTA III qual é o verdadeiro/sound_012.wav	
+sirenes/outra/sirene-longa.wav	Sirene longa	sirene-outra	sirene	011				sirenes/GTA III qual é o verdadeiro/sound_011.wav	
+sirenes/outra/sirene-curta.wav	Sirene curta	sirene-outra	sirene	012				sirenes/GTA III qual é o verdadeiro/sound_012.wav	
 sirenes/gta-iv/sirene-longa.wav	Sirene longa	sirene-gta-iv	sirene	011				sirenes/GTA IV/sound_011.wav	
 sirenes/gta-iv/sirene-curta.wav	Sirene curta	sirene-gta-iv	sirene	012				sirenes/GTA IV/sound_012.wav	
