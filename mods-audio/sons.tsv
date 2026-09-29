@@ -48,6 +48,8 @@ armas/ak-m4/tiro-46.wav	Tiro 46	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			sound_007z (
 armas/ak-m4/tiro-47.wav	Tiro 47	ak-m4	tiro	004	ak-m4			sound_028c (6).wav	
 armas/ak-m4/tiro-48.wav	Tiro 48	ak-m4	tiro	004	ak-m4			sound_028c (9).wav	
 armas/ak-m4/tiro-49.wav	Tiro 49	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_028c (10).wav	
+armas/ak-m4/tiro-50.wav	Tiro 50	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_019 (1).wav | M4 777.mp3 | MP5.mp3	
+armas/ak-m4/tiro-51.wav	Tiro 51	ak-m4	tiro	004	ak-m4,mp5			sound_019.wav	
 armas/deagle-9mm/tiro-01.wav	Tiro 01	deagle-9mm	tiro	007	ak-m4,deagle-9mm			deagle (1).wav	
 armas/deagle-9mm/tiro-02.wav	Tiro 02	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (2).wav | Deagle (2) (1).wav	
 armas/deagle-9mm/tiro-03.wav	Tiro 03	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5			Deagle (6).wav | Deagle (6) (1).wav	
@@ -210,22 +212,20 @@ hitsound/hitsound-04.wav	Hitsound 04	hitsound	hitsound					Bell 300.wav | Bell 3
 hitsound/hitsound-05.wav	Hitsound 05	hitsound	hitsound					Bell5.wav | Bell5.mp3	
 hitsound/hitsound-06.wav	Hitsound 06	hitsound	hitsound					Bell14.wav | Bell14.mp3 | hit sound (17).mp3	
 hitsound/hitsound-07.wav	Hitsound 07	hitsound	hitsound					Bell15.wav	
-hitsound/hitsound-08.wav	Hitsound 08	hitsound	hitsound					hit sound (3).wav	
-hitsound/hitsound-09.wav	Hitsound 09	hitsound	hitsound					hit sound (10).wav	
-hitsound/hitsound-10.wav	Hitsound 10	hitsound	hitsound					hit_sound_6.wav | hit_sound_6.mp3	
-hitsound/hitsound-11.wav	Hitsound 11	hitsound	hitsound					Hit.1.wav | Hit.1.mp3	
-hitsound/hitsound-12.wav	Hitsound 12	hitsound	hitsound					Hit.8.wav | Hit.8.mp3 | Bell 333.mp3	
-hitsound/hitsound-13.wav	Hitsound 13	hitsound	hitsound					Hit.52.wav | Hit.52.mp3 | hit sound (14).mp3 | hit_sound_14.mp3	
-hitsound/hitsound-14.wav	Hitsound 14	hitsound	hitsound					hitsound3.wav	
-hitsound/hitsound-15.wav	Hitsound 15	hitsound	hitsound					hitsound6.wav	
-hitsound/hitsound-16.wav	Hitsound 16	hitsound	hitsound					Pain (9).wav | Pain (9).mp3 | hit sound (13).mp3	
-hitsound/hitsound-17.wav	Hitsound 17	hitsound	hitsound					sound_003 (2).wav	
-hitsound/hitsound-18.wav	Hitsound 18	hitsound	hitsound					sound_003 (5).wav	
-hitsound/hitsound-19.wav	Hitsound 19	hitsound	hitsound					sound_003 (do mp3).wav | sound_003.mp3	
-hitsound/hitsound-20.wav	Hitsound 20	hitsound	hitsound					sound_003_3.wav | hit sound (10).mp3	
-hitsound/hitsound-21.wav	Hitsound 21	hitsound	hitsound					sound_003-1.wav	
-hitsound/hitsound-22.wav	Hitsound 22	hitsound	hitsound					sound_003.wav	
-hitsound/hitsound-23.wav	Hitsound 23	hitsound	hitsound					sound_019 (1).wav | M4 777.mp3 | MP5.mp3	
-hitsound/hitsound-24.wav	Hitsound 24	hitsound	hitsound					sound_019.wav	
-hitsound/hitsound-25.wav	Hitsound 25	hitsound	hitsound					sound_003 (1).wav	
-hitsound/hitsound-26.wav	Hitsound 26	hitsound	hitsound					sound_003 (3).wav	
+hitsound/hitsound-08.wav	Hitsound 08	hitsound	hitsound					hit sound (10).wav	
+hitsound/hitsound-09.wav	Hitsound 09	hitsound	hitsound					hit_sound_6.wav | hit_sound_6.mp3	
+hitsound/hitsound-10.wav	Hitsound 10	hitsound	hitsound					Hit.8.wav | Hit.8.mp3 | Bell 333.mp3	
+hitsound/hitsound-11.wav	Hitsound 11	hitsound	hitsound					Hit.52.wav | Hit.52.mp3 | hit sound (14).mp3 | hit_sound_14.mp3	
+hitsound/hitsound-12.wav	Hitsound 12	hitsound	hitsound					hitsound3.wav	
+hitsound/hitsound-13.wav	Hitsound 13	hitsound	hitsound					hitsound6.wav	
+hitsound/hitsound-14.wav	Hitsound 14	hitsound	hitsound					Pain (9).wav | Pain (9).mp3 | hit sound (13).mp3	
+hitsound/hitsound-15.wav	Hitsound 15	hitsound	hitsound					sound_003 (2).wav	
+hitsound/hitsound-16.wav	Hitsound 16	hitsound	hitsound					sound_003 (5).wav	
+hitsound/hitsound-17.wav	Hitsound 17	hitsound	hitsound					sound_003 (do mp3).wav | sound_003.mp3	
+hitsound/hitsound-18.wav	Hitsound 18	hitsound	hitsound					sound_003_3.wav | hit sound (10).mp3	
+hitsound/hitsound-19.wav	Hitsound 19	hitsound	hitsound					sound_003-1.wav	
+hitsound/hitsound-20.wav	Hitsound 20	hitsound	hitsound					sound_003 (1).wav	
+hitsound/hitsound-21.wav	Hitsound 21	hitsound	hitsound					sound_003 (3).wav	
+headshot/headshot-01.wav	Headshot 01	headshot	hitsound					hit sound (3).wav	
+headshot/headshot-02.wav	Headshot 02	headshot	hitsound					Hit.1.wav | Hit.1.mp3	
+headshot/headshot-03.wav	Headshot 03	headshot	hitsound					sound_003.wav	
