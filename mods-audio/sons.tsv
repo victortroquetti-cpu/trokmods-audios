@@ -1,237 +1,237 @@
-arquivo	nome	grupo	papel	slot	serve_em	autor	fonte	circula_como	parecido_com
-armas/ak-m4/tiro-01.wav	Tiro 01	ak-m4	tiro	005	ak-m4,deagle-9mm,shotgun,mp5			DeagleSound5.wav	
-armas/ak-m4/tiro-02.wav	Tiro 02	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 (1).wav	
-armas/ak-m4/tiro-03.wav	Tiro 03	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 (3).wav	
-armas/ak-m4/tiro-04.wav	Tiro 04	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 (4).wav | sound_004 (1).wav	
-armas/ak-m4/tiro-05.wav	Tiro 05	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 (17).wav	
-armas/ak-m4/tiro-06.wav	Tiro 06	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4 1.wav	
-armas/ak-m4/tiro-07.wav	Tiro 07	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 2.wav | M4 2 (1).wav | sound_004_25.wav | sound_008_9.wav	
-armas/ak-m4/tiro-08.wav	Tiro 08	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 3.wav	
-armas/ak-m4/tiro-09.wav	Tiro 09	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 6.wav	
-armas/ak-m4/tiro-10.wav	Tiro 10	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4 010.wav | sound_007z (6).wav	
-armas/ak-m4/tiro-11.wav	Tiro 11	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4 dis.wav	
-armas/ak-m4/tiro-12.wav	Tiro 12	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4_1_1.wav	
-armas/ak-m4/tiro-13.wav	Tiro 13	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4_6_1.wav	
-armas/ak-m4/tiro-14.wav	Tiro 14	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.1 (do mp3).wav | M4.1.mp3 | sound_007z (1).mp3	
-armas/ak-m4/tiro-15.wav	Tiro 15	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.1.wav	
-armas/ak-m4/tiro-16.wav	Tiro 16	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4.1g.wav | sound_018.wav	
-armas/ak-m4/tiro-17.wav	Tiro 17	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4.2.wav | M4.2 (1).wav | sound_007z (2).wav	
-armas/ak-m4/tiro-18.wav	Tiro 18	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.3.wav	
-armas/ak-m4/tiro-19.wav	Tiro 19	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4.4.wav	
-armas/ak-m4/tiro-20.wav	Tiro 20	ak-m4	tiro	004	ak-m4,shotgun			M4.6.wav	
-armas/ak-m4/tiro-21.wav	Tiro 21	ak-m4	tiro	004	ak-m4			M4.7.wav	
-armas/ak-m4/tiro-22.wav	Tiro 22	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			Shotgun.4-1.wav | sound_004b (6).wav | sound_005 (4).wav | sound_005_28.wav	
-armas/ak-m4/tiro-23.wav	Tiro 23	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (2).wav	
-armas/ak-m4/tiro-24.wav	Tiro 24	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (3).wav	
-armas/ak-m4/tiro-25.wav	Tiro 25	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (4).wav	
-armas/ak-m4/tiro-26.wav	Tiro 26	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			sound_004_2.wav	
-armas/ak-m4/tiro-27.wav	Tiro 27	ak-m4	tiro	004	ak-m4,mp5			sound_004_6.wav | sound_007z (11).wav | sound_022 (6).wav	
-armas/ak-m4/tiro-28.wav	Tiro 28	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004_15.wav	
-armas/ak-m4/tiro-29.wav	Tiro 29	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004_19.wav	
-armas/ak-m4/tiro-30.wav	Tiro 30	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			sound_004_27.wav	
-armas/ak-m4/tiro-31.wav	Tiro 31	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004-2.wav	
-armas/ak-m4/tiro-32.wav	Tiro 32	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004-13.wav	
-armas/ak-m4/tiro-33.wav	Tiro 33	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_00004.wav	
-armas/ak-m4/tiro-34.wav	Tiro 34	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004.wav | sound_004_2 (1).WAV | sound_007z (3).wav	
-armas/ak-m4/tiro-35.wav	Tiro 35	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (1).wav	
-armas/ak-m4/tiro-36.wav	Tiro 36	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (2).wav	
-armas/ak-m4/tiro-37.wav	Tiro 37	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (3).wav	
-armas/ak-m4/tiro-38.wav	Tiro 38	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004b (4).wav	
-armas/ak-m4/tiro-39.wav	Tiro 39	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005 (1).wav	
-armas/ak-m4/tiro-40.wav	Tiro 40	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005 (3).wav	
-armas/ak-m4/tiro-41.wav	Tiro 41	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005 (do mp3).wav | sound_005.mp3	
-armas/ak-m4/tiro-42.wav	Tiro 42	ak-m4	tiro	005	ak-m4,shotgun			sound_005_1.wav	
-armas/ak-m4/tiro-43.wav	Tiro 43	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005_2.wav	
-armas/ak-m4/tiro-44.wav	Tiro 44	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005_21.wav	
-armas/ak-m4/tiro-45.wav	Tiro 45	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005.wav | sound_004_23.wav | sound_004_9.wav | sound_005 (2).wav | sound_005-1.wav | sound_005_11.wav	
-armas/ak-m4/tiro-46.wav	Tiro 46	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			sound_007z (12).wav	
-armas/ak-m4/tiro-47.wav	Tiro 47	ak-m4	tiro	004	ak-m4			sound_028c (6).wav	
-armas/ak-m4/tiro-48.wav	Tiro 48	ak-m4	tiro	004	ak-m4			sound_028c (9).wav	
-armas/ak-m4/tiro-49.wav	Tiro 49	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_028c (10).wav	
-armas/ak-m4/tiro-50.wav	Tiro 50	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_019 (1).wav | M4 777.mp3 | MP5.mp3	
-armas/ak-m4/tiro-51.wav	Tiro 51	ak-m4	tiro	004	ak-m4,mp5			sound_019.wav	
-armas/deagle-9mm/tiro-01.wav	Tiro 01	deagle-9mm	tiro	007	ak-m4,deagle-9mm			deagle (1).wav	
-armas/deagle-9mm/tiro-02.wav	Tiro 02	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (2).wav | Deagle (2) (1).wav	
-armas/deagle-9mm/tiro-03.wav	Tiro 03	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5			Deagle (6).wav | Deagle (6) (1).wav	
-armas/deagle-9mm/tiro-04.wav	Tiro 04	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (8) (1).wav	
-armas/deagle-9mm/tiro-05.wav	Tiro 05	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (9).wav | Deagle (1566) (1).wav | Deagle (1566).wav | Deagle (9) (1) (1).wav | Deagle (9) (1).wav | Deagle (9) (2).wav | sound_004b (7).wav	
-armas/deagle-9mm/tiro-06.wav	Tiro 06	deagle-9mm	tiro	007	deagle-9mm			Deagle (13).wav	
-armas/deagle-9mm/tiro-07.wav	Tiro 07	deagle-9mm	tiro	007	deagle-9mm			Deagle (15).wav | sound_007z (24).wav | sound_008-66.wav	
-armas/deagle-9mm/tiro-08.wav	Tiro 08	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (17).wav | Deagle (17) (1).wav	
-armas/deagle-9mm/tiro-09.wav	Tiro 09	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (18).wav | Deagle (18) (1).wav	
-armas/deagle-9mm/tiro-10.wav	Tiro 10	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (21).wav	
-armas/deagle-9mm/tiro-11.wav	Tiro 11	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle (27).wav | Deagle (27) (1).wav | sound_022 (5).wav | sound_022-3.wav	
-armas/deagle-9mm/tiro-12.wav	Tiro 12	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle (28).wav	
-armas/deagle-9mm/tiro-13.wav	Tiro 13	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (653).wav	
-armas/deagle-9mm/tiro-14.wav	Tiro 14	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			deagle_3.wav	
-armas/deagle-9mm/tiro-15.wav	Tiro 15	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.5.wav | Deagle.5.mp3 | Deagle (16) (1).mp3 | Deagle (16).mp3	
-armas/deagle-9mm/tiro-16.wav	Tiro 16	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.9.wav	
-armas/deagle-9mm/tiro-17.wav	Tiro 17	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.10.wav	
-armas/deagle-9mm/tiro-18.wav	Tiro 18	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			Deagle.19.wav	
-armas/deagle-9mm/tiro-19.wav	Tiro 19	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			Deagle.33.wav | sound_007z (9).wav	
-armas/deagle-9mm/tiro-20.wav	Tiro 20	deagle-9mm	tiro	007	deagle-9mm			Deagle.40.wav | Deagle.40 (1).wav | sound_007z (10).wav	
-armas/deagle-9mm/tiro-21.wav	Tiro 21	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.48.wav	
-armas/deagle-9mm/tiro-22.wav	Tiro 22	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.66.wav | Deagle.66.mp3 | Deagle (25).mp3	
-armas/deagle-9mm/tiro-23.wav	Tiro 23	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.0082.wav	
-armas/deagle-9mm/tiro-24.wav	Tiro 24	deagle-9mm	tiro	007	deagle-9mm,shotgun			deagle.wav	
-armas/deagle-9mm/tiro-25.wav	Tiro 25	deagle-9mm	tiro	008	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle1.WAV | sound_008-33.WAV	
-armas/deagle-9mm/tiro-26.wav	Tiro 26	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle2.wav | sound_007 (12).wav	
-armas/deagle-9mm/tiro-27.wav	Tiro 27	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			Deagle5.wav	Tiro 50 (deagle-9mm)
-armas/deagle-9mm/tiro-28.wav	Tiro 28	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			DeagleSound2.wav	
-armas/deagle-9mm/tiro-29.wav	Tiro 29	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			DeagleSound8.wav	
-armas/deagle-9mm/tiro-30.wav	Tiro 30	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			shotgun_nitro.wav | Deagle (20).wav | Deagle 3333.wav | soundPc.wav | sound_023 (3).wav	
-armas/deagle-9mm/tiro-31.wav	Tiro 31	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sniper.wav | sound_007 (4).wav | sound_007_31.wav | sound_007z (25).wav | sound_022.wav | sound_028 (8).wav	
-armas/deagle-9mm/tiro-32.wav	Tiro 32	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (1).wav	
-armas/deagle-9mm/tiro-33.wav	Tiro 33	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sound_007 (2).wav	
-armas/deagle-9mm/tiro-34.wav	Tiro 34	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			Sound_007 (3).wav	Tiro 42 (deagle-9mm)
-armas/deagle-9mm/tiro-35.wav	Tiro 35	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9,sniper-country			sound_007 (5).wav	
-armas/deagle-9mm/tiro-36.wav	Tiro 36	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007 (6).wav	
-armas/deagle-9mm/tiro-37.wav	Tiro 37	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4,mp5,uzi-tec9			sound_007 (7).wav	
-armas/deagle-9mm/tiro-38.wav	Tiro 38	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9			sound_007 (8).wav	
-armas/deagle-9mm/tiro-39.wav	Tiro 39	deagle-9mm	tiro	007	deagle-9mm,ak-m4			sound_007 (10).wav	
-armas/deagle-9mm/tiro-40.wav	Tiro 40	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (11).wav	
-armas/deagle-9mm/tiro-41.wav	Tiro 41	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (13).wav	
-armas/deagle-9mm/tiro-42.wav	Tiro 42	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (14).wav | sound_028c (8).wav	Tiro 34 (deagle-9mm)
-armas/deagle-9mm/tiro-43.wav	Tiro 43	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (15).wav	
-armas/deagle-9mm/tiro-44.wav	Tiro 44	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (16).wav	
-armas/deagle-9mm/tiro-45.wav	Tiro 45	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (17).wav	
-armas/deagle-9mm/tiro-46.wav	Tiro 46	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (18).wav	
-armas/deagle-9mm/tiro-47.wav	Tiro 47	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (19).wav	
-armas/deagle-9mm/tiro-48.wav	Tiro 48	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007_3.wav | sound_007z (23).wav	
-armas/deagle-9mm/tiro-49.wav	Tiro 49	deagle-9mm	tiro	007	deagle-9mm			sound_007_4.wav	
-armas/deagle-9mm/tiro-50.wav	Tiro 50	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_007_27.wav	Tiro 27 (deagle-9mm)
-armas/deagle-9mm/tiro-51.wav	Tiro 51	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			Sound_007_29.wav	
-armas/deagle-9mm/tiro-52.wav	Tiro 52	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007_32.wav	
-armas/deagle-9mm/tiro-53.wav	Tiro 53	deagle-9mm	tiro	007	deagle-9mm,ak-m4			sound_007-11.wav	
-armas/deagle-9mm/tiro-54.wav	Tiro 54	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007-17.wav	
-armas/deagle-9mm/tiro-55.wav	Tiro 55	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007-22.wav	
-armas/deagle-9mm/tiro-56.wav	Tiro 56	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007-23.wav	
-armas/deagle-9mm/tiro-57.wav	Tiro 57	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country			sound_007-24.WAV | sound_007-25.WAV | sound_007z (22).WAV	
-armas/deagle-9mm/tiro-58.wav	Tiro 58	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_007.wav	
-armas/deagle-9mm/tiro-59.wav	Tiro 59	deagle-9mm	tiro	007	deagle-9mm			sound_007z (1).wav	
-armas/deagle-9mm/tiro-60.wav	Tiro 60	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007z (4).wav	
-armas/deagle-9mm/tiro-61.wav	Tiro 61	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9			sound_007z (5).wav	
-armas/deagle-9mm/tiro-62.wav	Tiro 62	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9,shotgun			sound_007z (8).wav	
-armas/deagle-9mm/tiro-63.wav	Tiro 63	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007z (14).wav	
-armas/deagle-9mm/tiro-64.wav	Tiro 64	deagle-9mm	tiro	007	ak-m4,sniper-country,mp5,deagle-9mm			sound_007z (16).wav	
-armas/deagle-9mm/tiro-65.wav	Tiro 65	deagle-9mm	tiro	007	deagle-9mm			sound_007z (17).wav	
-armas/deagle-9mm/tiro-66.wav	Tiro 66	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007z (20).wav	
-armas/deagle-9mm/tiro-67.wav	Tiro 67	deagle-9mm	tiro	007	sniper-country,ak-m4,shotgun,deagle-9mm			sound_007z (21).wav	Tiro 13 (sniper-country)
-armas/deagle-9mm/tiro-68.wav	Tiro 68	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_007z (26).wav	
-armas/deagle-9mm/tiro-69.wav	Tiro 69	deagle-9mm	tiro	007	deagle-9mm,shotgun			sound_007z (27).wav	
-armas/deagle-9mm/tiro-70.wav	Tiro 70	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country			sound_007z (28).wav	
-armas/deagle-9mm/tiro-71.wav	Tiro 71	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007z (29).wav	
-armas/deagle-9mm/tiro-72.wav	Tiro 72	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country			sound_007z (30).wav	
-armas/deagle-9mm/tiro-73.wav	Tiro 73	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_008 (2).wav	
-armas/deagle-9mm/tiro-74.wav	Tiro 74	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_008 (3).wav	
-armas/deagle-9mm/tiro-75.wav	Tiro 75	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4			sound_008 (5).wav	
-armas/deagle-9mm/tiro-76.wav	Tiro 76	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,mp5			sound_008 (6).wav	
-armas/deagle-9mm/tiro-77.wav	Tiro 77	deagle-9mm	tiro	008	deagle-9mm,shotgun			sound_008 (8).wav	
-armas/deagle-9mm/tiro-78.wav	Tiro 78	deagle-9mm	tiro	008	deagle-9mm			sound_008 (9).wav	
-armas/deagle-9mm/tiro-79.wav	Tiro 79	deagle-9mm	tiro	008	deagle-9mm,ak-m4,shotgun			sound_008_1.wav	
-armas/deagle-9mm/tiro-80.wav	Tiro 80	deagle-9mm	tiro	008	deagle-9mm,sniper-country,ak-m4			sound_008_5.wav | sound_008_1 (1).wav	
-armas/deagle-9mm/tiro-81.wav	Tiro 81	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country			sound_008_6.wav | sound_008_27.wav	
-armas/deagle-9mm/tiro-82.wav	Tiro 82	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country			sound_008_28.wav	
-armas/deagle-9mm/tiro-83.wav	Tiro 83	deagle-9mm	tiro	008	deagle-9mm			sound_008_29.wav	
-armas/deagle-9mm/tiro-84.wav	Tiro 84	deagle-9mm	tiro	008	deagle-9mm,ak-m4			sound_008_34.wav	
-armas/deagle-9mm/tiro-85.wav	Tiro 85	deagle-9mm	tiro	008	ak-m4,mp5,deagle-9mm,shotgun			sound_008_36.wav | sound_008 (1).wav	
-armas/deagle-9mm/tiro-86.wav	Tiro 86	deagle-9mm	tiro	008	deagle-9mm,ak-m4			sound_008-22.wav	
-armas/deagle-9mm/tiro-87.wav	Tiro 87	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_008-26.wav | sound_007 (9).wav | sound_007z (7).wav	
-armas/deagle-9mm/tiro-88.wav	Tiro 88	deagle-9mm	tiro	008	deagle-9mm,shotgun,sniper-country			sound_008-27.WAV | sound_008 (4).wav	
-armas/deagle-9mm/tiro-89.wav	Tiro 89	deagle-9mm	tiro	008	deagle-9mm			sound_008-37.wav	
-armas/deagle-9mm/tiro-90.wav	Tiro 90	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sound_008.wav	
-armas/deagle-9mm/tiro-91.wav	Tiro 91	deagle-9mm	tiro	007	ak-m4,deagle-9mm,shotgun,sniper-country,mp5,uzi-tec9			sound_027 (1).wav | sound_007z (13).wav	
-armas/deagle-9mm/tiro-92.wav	Tiro 92	deagle-9mm	tiro	007	deagle-9mm,sniper-country			Deagle (52).wav	
-armas/uzi-tec9/tiro-01.wav	Tiro 01	uzi-tec9	tiro	001	ak-m4,mp5,uzi-tec9			sound_001.wav	
-armas/uzi-tec9/tiro-02.wav	Tiro 02	uzi-tec9	tiro	002	deagle-9mm,uzi-tec9			sound_00002.wav	
-armas/mp5/tiro-01.wav	Tiro 01	mp5	tiro	018	ak-m4,deagle-9mm,shotgun,mp5			sound_018 (1).wav	
-armas/mp5/tiro-02.wav	Tiro 02	mp5	tiro	018	ak-m4,deagle-9mm,shotgun,mp5			sound_018 (2).wav	
-armas/shotgun/tiro-01.wav	Tiro 01	shotgun	tiro	023	deagle-9mm,shotgun,ak-m4			4.wav | sound_023_2.wav	
-armas/shotgun/tiro-02.wav	Tiro 02	shotgun	tiro	022	shotgun,deagle-9mm			Shotgun (1).wav | Shotgun (1).mp3	
-armas/shotgun/tiro-03.wav	Tiro 03	shotgun	tiro	022	deagle-9mm,shotgun,sniper-country,ak-m4			Shotgun_58.wav	
-armas/shotgun/tiro-04.wav	Tiro 04	shotgun	tiro	022	shotgun,uzi-tec9			Shotgun.3.wav	
-armas/shotgun/tiro-05.wav	Tiro 05	shotgun	tiro	022	ak-m4,shotgun,deagle-9mm,sniper-country			sound_022 (1).wav	
-armas/shotgun/tiro-06.wav	Tiro 06	shotgun	tiro	022	shotgun			sound_022 (3).wav | sound_007z (18).wav | sound_023 (1).wav	
-armas/shotgun/tiro-07.wav	Tiro 07	shotgun	tiro	022	deagle-9mm,shotgun			sound_022 (4).wav	
-armas/shotgun/tiro-08.wav	Tiro 08	shotgun	tiro	022	deagle-9mm,shotgun,ak-m4			sound_022_1.wav | sound_004b (5).wav | sound_022 (2).wav | sound_022_3.wav | sound_023_6.wav	
-armas/shotgun/tiro-09.wav	Tiro 09	shotgun	tiro	022	deagle-9mm,shotgun,sniper-country			sound_022-2.wav	
-armas/shotgun/tiro-10.wav	Tiro 10	shotgun	tiro	022	sniper-country,shotgun			sound_022-7.wav	
-armas/shotgun/tiro-11.wav	Tiro 11	shotgun	tiro	022	shotgun,ak-m4			sound_022-20.wav	
-armas/shotgun/tiro-12.wav	Tiro 12	shotgun	tiro	022	ak-m4,shotgun,deagle-9mm,mp5			sound_022f.wav	
-armas/shotgun/tiro-13.wav	Tiro 13	shotgun	tiro	023	deagle-9mm,shotgun			sound_023 (4).wav	
-armas/shotgun/tiro-14.wav	Tiro 14	shotgun	tiro	023	shotgun			sound_023_1.wav	
-armas/shotgun/tiro-15.wav	Tiro 15	shotgun	tiro	023	deagle-9mm,shotgun			sound_023_5.wav	
-armas/shotgun/tiro-16.wav	Tiro 16	shotgun	tiro	023	deagle-9mm,shotgun			sound_023-4.wav | sound_023 (2).wav	
-armas/shotgun/tiro-17.wav	Tiro 17	shotgun	tiro	023	deagle-9mm,shotgun,ak-m4			sound_023-15.wav	
-armas/shotgun/tiro-18.wav	Tiro 18	shotgun	tiro	023	shotgun			sound_023.wav | sound_022-5.wav | sound_023-5.wav | Shotgun.mp3	
-armas/shotgun/tiro-19.wav	Tiro 19	shotgun	tiro	022	shotgun			sound_028c (7).wav	
-armas/sniper-country/tiro-01.wav	Tiro 01	sniper-country	tiro	027	shotgun,deagle-9mm,sniper-country,ak-m4			Rifle4.wav	
-armas/sniper-country/tiro-02.wav	Tiro 02	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sniper_027.wav | sniper_028.wav	
-armas/sniper-country/tiro-03.wav	Tiro 03	sniper-country	tiro	027	sniper-country			sniper_028-1.wav | sound_027 (3).wav | sound_027_6.wav	
-armas/sniper-country/tiro-04.wav	Tiro 04	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (2).wav	
-armas/sniper-country/tiro-05.wav	Tiro 05	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (4).wav	
-armas/sniper-country/tiro-06.wav	Tiro 06	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (6).wav	
-armas/sniper-country/tiro-07.wav	Tiro 07	sniper-country	tiro	027	sniper-country			sound_027 (7).wav | sound_028 (9).wav	
-armas/sniper-country/tiro-08.wav	Tiro 08	sniper-country	tiro	027	sniper-country			sound_027 (9).wav	
-armas/sniper-country/tiro-09.wav	Tiro 09	sniper-country	tiro	027	sniper-country,deagle-9mm,shotgun			sound_027 (10).wav	
-armas/sniper-country/tiro-10.wav	Tiro 10	sniper-country	tiro	027	sniper-country			sound_027 (do mp3).wav | sound_027.mp3	Tiro 22 (sniper-country)
-armas/sniper-country/tiro-11.wav	Tiro 11	sniper-country	tiro	027	sniper-country,deagle-9mm			sound_027_1.wav | sound_027 (5).wav	
-armas/sniper-country/tiro-12.wav	Tiro 12	sniper-country	tiro	027	deagle-9mm,shotgun,sniper-country,ak-m4			Sound_027_2.wav	
-armas/sniper-country/tiro-13.wav	Tiro 13	sniper-country	tiro	027	sniper-country,ak-m4,shotgun,deagle-9mm			sound_027_5.wav | SOUND_10.wav | sound_027 (8).wav	Tiro 67 (deagle-9mm)
-armas/sniper-country/tiro-14.wav	Tiro 14	sniper-country	tiro	027	ak-m4,sniper-country,shotgun,deagle-9mm			sound_027-1.wav	
-armas/sniper-country/tiro-15.wav	Tiro 15	sniper-country	tiro	027	sniper-country			sound_027.wav | sound_028.wav	
-armas/sniper-country/tiro-16.wav	Tiro 16	sniper-country	tiro	028	sniper-country,ak-m4			sound_028 (1).wav	
-armas/sniper-country/tiro-17.wav	Tiro 17	sniper-country	tiro	028	sniper-country			sound_028 (2).wav	
-armas/sniper-country/tiro-18.wav	Tiro 18	sniper-country	tiro	028	ak-m4,sniper-country			sound_028 (3).WAV	
-armas/sniper-country/tiro-19.wav	Tiro 19	sniper-country	tiro	028	ak-m4,shotgun,deagle-9mm,sniper-country			sound_028 (4).wav	
-armas/sniper-country/tiro-20.wav	Tiro 20	sniper-country	tiro	028	sniper-country			sound_028 (5).wav	
-armas/sniper-country/tiro-21.wav	Tiro 21	sniper-country	tiro	028	sniper-country			sound_028 (7).wav	
-armas/sniper-country/tiro-22.wav	Tiro 22	sniper-country	tiro	028	sniper-country			sound_028_1.wav	Tiro 10 (sniper-country)
-armas/sniper-country/tiro-23.wav	Tiro 23	sniper-country	tiro	028	sniper-country			sound_028_2.wav | sound_027 (1) (1).wav	
-armas/sniper-country/tiro-24.wav	Tiro 24	sniper-country	tiro	028	ak-m4,shotgun,deagle-9mm,sniper-country			sound_028_5.wav | sound_028 (6).wav	
-armas/sniper-country/tiro-25.wav	Tiro 25	sniper-country	tiro	028	sniper-country			sound_028c (1).wav	
-armas/sniper-country/tiro-26.wav	Tiro 26	sniper-country	tiro	028	sniper-country			sound_028c (2).wav	
-armas/sniper-country/tiro-27.wav	Tiro 27	sniper-country	tiro	028	sniper-country			sound_028c (3).wav	
-armas/sniper-country/tiro-28.wav	Tiro 28	sniper-country	tiro	028	sniper-country			sound_028c (4).wav	
-armas/sniper-country/tiro-29.wav	Tiro 29	sniper-country	tiro	028	sniper-country,ak-m4,deagle-9mm,shotgun			sound_028c (5).wav	
-armas/sniper-country/tiro-30.wav	Tiro 30	sniper-country	tiro	027	sniper-country			sound_007-1.wav	
-armas/sniper-country/tiro-31.wav	Tiro 31	sniper-country	tiro	027	sniper-country			sound_007z (19).wav	
-armas/sniper-country/tiro-32.wav	Tiro 32	sniper-country	tiro	027	sniper-country			sound_028-1.wav | sound_007z (15).wav	
-armas/silenciada/tiro-01.wav	Tiro 01	silenciada	tiro	025	silenciada			sound_025 (1).wav	
-armas/silenciada/tiro-02.wav	Tiro 02	silenciada	tiro	025	silenciada			sound_025 (2).wav	
-armas/silenciada/tiro-03.wav	Tiro 03	silenciada	tiro	025	silenciada			sound_025.wav	
-armas/sem-arma/som-01.wav	Som 01	sem-arma	som					2.wav | 2.mp3	
-armas/sem-arma/som-02.wav	Som 02	sem-arma	som					4-1.wav	
-armas/sem-arma/som-03.wav	Som 03	sem-arma	som					6.wav	
-armas/sem-arma/som-04.wav	Som 04	sem-arma	som					15.wav	
-armas/sem-arma/som-05.wav	Som 05	sem-arma	som					sound_0232.wav	
-hitsound/hitsound-01.wav	Hitsound 01	hitsound	hitsound					Bell (2).wav | Bell (2).mp3	
-hitsound/hitsound-02.wav	Hitsound 02	hitsound	hitsound					Bell (18).wav | Pain (26).wav	
-hitsound/hitsound-03.wav	Hitsound 03	hitsound	hitsound					Bell (30).wav | Belllll (1).wav | sound_003 (4).wav	
-hitsound/hitsound-04.wav	Hitsound 04	hitsound	hitsound					Bell 300.wav | Bell 300.mp3	
-hitsound/hitsound-05.wav	Hitsound 05	hitsound	hitsound					Bell5.wav | Bell5.mp3	
-hitsound/hitsound-06.wav	Hitsound 06	hitsound	hitsound					Bell14.wav | Bell14.mp3 | hit sound (17).mp3	
-hitsound/hitsound-07.wav	Hitsound 07	hitsound	hitsound					Bell15.wav	
-hitsound/hitsound-08.wav	Hitsound 08	hitsound	hitsound					hit sound (10).wav	
-hitsound/hitsound-09.wav	Hitsound 09	hitsound	hitsound					hit_sound_6.wav | hit_sound_6.mp3	
-hitsound/hitsound-10.wav	Hitsound 10	hitsound	hitsound					Hit.8.wav | Hit.8.mp3 | Bell 333.mp3	
-hitsound/hitsound-11.wav	Hitsound 11	hitsound	hitsound					Hit.52.wav | Hit.52.mp3 | hit sound (14).mp3 | hit_sound_14.mp3	
-hitsound/hitsound-12.wav	Hitsound 12	hitsound	hitsound					hitsound3.wav	
-hitsound/hitsound-13.wav	Hitsound 13	hitsound	hitsound					hitsound6.wav	
-hitsound/hitsound-14.wav	Hitsound 14	hitsound	hitsound					Pain (9).wav | Pain (9).mp3 | hit sound (13).mp3	
-hitsound/hitsound-15.wav	Hitsound 15	hitsound	hitsound					sound_003 (2).wav	
-hitsound/hitsound-16.wav	Hitsound 16	hitsound	hitsound					sound_003 (5).wav	
-hitsound/hitsound-17.wav	Hitsound 17	hitsound	hitsound					sound_003 (do mp3).wav | sound_003.mp3	
-hitsound/hitsound-18.wav	Hitsound 18	hitsound	hitsound					sound_003_3.wav | hit sound (10).mp3	
-hitsound/hitsound-19.wav	Hitsound 19	hitsound	hitsound					sound_003-1.wav	
-hitsound/hitsound-20.wav	Hitsound 20	hitsound	hitsound					sound_003 (1).wav	
-hitsound/hitsound-21.wav	Hitsound 21	hitsound	hitsound					sound_003 (3).wav	
-headshot/headshot-01.wav	Headshot 01	headshot	hitsound					hit sound (3).wav	
-headshot/headshot-02.wav	Headshot 02	headshot	hitsound					Hit.1.wav | Hit.1.mp3	
-headshot/headshot-03.wav	Headshot 03	headshot	hitsound					sound_003.wav	
-sirenes/gta-iii/sirene-longa.wav	Sirene longa	sirene-gta-iii	sirene	011				sirenes/GTA III/sound_011.wav	
-sirenes/gta-iii/sirene-curta.wav	Sirene curta	sirene-gta-iii	sirene	012				sirenes/GTA III/sound_012.wav	
-sirenes/outra/sirene-longa.wav	Sirene longa	sirene-outra	sirene	011				sirenes/GTA III qual é o verdadeiro/sound_011.wav	
-sirenes/outra/sirene-curta.wav	Sirene curta	sirene-outra	sirene	012				sirenes/GTA III qual é o verdadeiro/sound_012.wav	
-sirenes/gta-iv/sirene-longa.wav	Sirene longa	sirene-gta-iv	sirene	011				sirenes/GTA IV/sound_011.wav	
-sirenes/gta-iv/sirene-curta.wav	Sirene curta	sirene-gta-iv	sirene	012				sirenes/GTA IV/sound_012.wav	
+arquivo	nome	grupo	papel	slot	serve_em	autor	fonte	circula_como	parecido_com	armas
+armas/ak-m4/tiro-01.wav	Tiro 01	ak-m4	tiro	005	ak-m4,deagle-9mm,shotgun,mp5			DeagleSound5.wav		
+armas/ak-m4/tiro-02.wav	Tiro 02	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 (1).wav		
+armas/ak-m4/tiro-03.wav	Tiro 03	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 (3).wav		
+armas/ak-m4/tiro-04.wav	Tiro 04	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 (4).wav | sound_004 (1).wav		
+armas/ak-m4/tiro-05.wav	Tiro 05	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 (17).wav		
+armas/ak-m4/tiro-06.wav	Tiro 06	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4 1.wav		
+armas/ak-m4/tiro-07.wav	Tiro 07	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 2.wav | M4 2 (1).wav | sound_004_25.wav | sound_008_9.wav		
+armas/ak-m4/tiro-08.wav	Tiro 08	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			M4 3.wav		
+armas/ak-m4/tiro-09.wav	Tiro 09	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4 6.wav		
+armas/ak-m4/tiro-10.wav	Tiro 10	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4 010.wav | sound_007z (6).wav		
+armas/ak-m4/tiro-11.wav	Tiro 11	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4 dis.wav		
+armas/ak-m4/tiro-12.wav	Tiro 12	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4_1_1.wav		
+armas/ak-m4/tiro-13.wav	Tiro 13	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4_6_1.wav		
+armas/ak-m4/tiro-14.wav	Tiro 14	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.1 (do mp3).wav | M4.1.mp3 | sound_007z (1).mp3		
+armas/ak-m4/tiro-15.wav	Tiro 15	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.1.wav		
+armas/ak-m4/tiro-16.wav	Tiro 16	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4.1g.wav | sound_018.wav		
+armas/ak-m4/tiro-17.wav	Tiro 17	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5			M4.2.wav | M4.2 (1).wav | sound_007z (2).wav		
+armas/ak-m4/tiro-18.wav	Tiro 18	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			M4.3.wav		
+armas/ak-m4/tiro-19.wav	Tiro 19	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			M4.4.wav		
+armas/ak-m4/tiro-20.wav	Tiro 20	ak-m4	tiro	004	ak-m4,shotgun			M4.6.wav		
+armas/ak-m4/tiro-21.wav	Tiro 21	ak-m4	tiro	004	ak-m4			M4.7.wav		
+armas/ak-m4/tiro-22.wav	Tiro 22	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			Shotgun.4-1.wav | sound_004b (6).wav | sound_005 (4).wav | sound_005_28.wav		
+armas/ak-m4/tiro-23.wav	Tiro 23	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (2).wav		
+armas/ak-m4/tiro-24.wav	Tiro 24	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (3).wav		
+armas/ak-m4/tiro-25.wav	Tiro 25	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004 (4).wav		
+armas/ak-m4/tiro-26.wav	Tiro 26	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			sound_004_2.wav		
+armas/ak-m4/tiro-27.wav	Tiro 27	ak-m4	tiro	004	ak-m4,mp5			sound_004_6.wav | sound_007z (11).wav | sound_022 (6).wav		
+armas/ak-m4/tiro-28.wav	Tiro 28	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004_15.wav		
+armas/ak-m4/tiro-29.wav	Tiro 29	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004_19.wav		
+armas/ak-m4/tiro-30.wav	Tiro 30	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			sound_004_27.wav		
+armas/ak-m4/tiro-31.wav	Tiro 31	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004-2.wav		
+armas/ak-m4/tiro-32.wav	Tiro 32	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004-13.wav		
+armas/ak-m4/tiro-33.wav	Tiro 33	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_00004.wav		
+armas/ak-m4/tiro-34.wav	Tiro 34	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004.wav | sound_004_2 (1).WAV | sound_007z (3).wav		
+armas/ak-m4/tiro-35.wav	Tiro 35	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (1).wav		
+armas/ak-m4/tiro-36.wav	Tiro 36	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (2).wav		
+armas/ak-m4/tiro-37.wav	Tiro 37	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm			sound_004b (3).wav		
+armas/ak-m4/tiro-38.wav	Tiro 38	ak-m4	tiro	004	ak-m4,shotgun,deagle-9mm,sniper-country			sound_004b (4).wav		
+armas/ak-m4/tiro-39.wav	Tiro 39	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005 (1).wav		
+armas/ak-m4/tiro-40.wav	Tiro 40	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005 (3).wav		
+armas/ak-m4/tiro-41.wav	Tiro 41	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005 (do mp3).wav | sound_005.mp3		
+armas/ak-m4/tiro-42.wav	Tiro 42	ak-m4	tiro	005	ak-m4,shotgun			sound_005_1.wav		
+armas/ak-m4/tiro-43.wav	Tiro 43	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005_2.wav		
+armas/ak-m4/tiro-44.wav	Tiro 44	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm,sniper-country			sound_005_21.wav		
+armas/ak-m4/tiro-45.wav	Tiro 45	ak-m4	tiro	005	ak-m4,shotgun,deagle-9mm			sound_005.wav | sound_004_23.wav | sound_004_9.wav | sound_005 (2).wav | sound_005-1.wav | sound_005_11.wav		
+armas/ak-m4/tiro-46.wav	Tiro 46	ak-m4	tiro	004	ak-m4,mp5,uzi-tec9			sound_007z (12).wav		
+armas/ak-m4/tiro-47.wav	Tiro 47	ak-m4	tiro	004	ak-m4			sound_028c (6).wav		
+armas/ak-m4/tiro-48.wav	Tiro 48	ak-m4	tiro	004	ak-m4			sound_028c (9).wav		
+armas/ak-m4/tiro-49.wav	Tiro 49	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_028c (10).wav		
+armas/ak-m4/tiro-50.wav	Tiro 50	ak-m4	tiro	004	ak-m4,deagle-9mm			sound_019 (1).wav | M4 777.mp3 | MP5.mp3		
+armas/ak-m4/tiro-51.wav	Tiro 51	ak-m4	tiro	004	ak-m4,mp5			sound_019.wav		
+armas/deagle-9mm/tiro-01.wav	Tiro 01	deagle-9mm	tiro	007	ak-m4,deagle-9mm			deagle (1).wav		
+armas/deagle-9mm/tiro-02.wav	Tiro 02	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (2).wav | Deagle (2) (1).wav		
+armas/deagle-9mm/tiro-03.wav	Tiro 03	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5			Deagle (6).wav | Deagle (6) (1).wav		
+armas/deagle-9mm/tiro-04.wav	Tiro 04	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (8) (1).wav		
+armas/deagle-9mm/tiro-05.wav	Tiro 05	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (9).wav | Deagle (1566) (1).wav | Deagle (1566).wav | Deagle (9) (1) (1).wav | Deagle (9) (1).wav | Deagle (9) (2).wav | sound_004b (7).wav		
+armas/deagle-9mm/tiro-06.wav	Tiro 06	deagle-9mm	tiro	007	deagle-9mm			Deagle (13).wav		
+armas/deagle-9mm/tiro-07.wav	Tiro 07	deagle-9mm	tiro	007	deagle-9mm			Deagle (15).wav | sound_007z (24).wav | sound_008-66.wav		
+armas/deagle-9mm/tiro-08.wav	Tiro 08	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (17).wav | Deagle (17) (1).wav		
+armas/deagle-9mm/tiro-09.wav	Tiro 09	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm			Deagle (18).wav | Deagle (18) (1).wav		
+armas/deagle-9mm/tiro-10.wav	Tiro 10	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (21).wav		
+armas/deagle-9mm/tiro-11.wav	Tiro 11	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle (27).wav | Deagle (27) (1).wav | sound_022 (5).wav | sound_022-3.wav		
+armas/deagle-9mm/tiro-12.wav	Tiro 12	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle (28).wav		
+armas/deagle-9mm/tiro-13.wav	Tiro 13	deagle-9mm	tiro	007	ak-m4,shotgun,deagle-9mm,mp5,uzi-tec9			Deagle (653).wav		
+armas/deagle-9mm/tiro-14.wav	Tiro 14	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			deagle_3.wav		
+armas/deagle-9mm/tiro-15.wav	Tiro 15	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.5.wav | Deagle.5.mp3 | Deagle (16) (1).mp3 | Deagle (16).mp3		
+armas/deagle-9mm/tiro-16.wav	Tiro 16	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.9.wav		
+armas/deagle-9mm/tiro-17.wav	Tiro 17	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.10.wav		
+armas/deagle-9mm/tiro-18.wav	Tiro 18	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			Deagle.19.wav		
+armas/deagle-9mm/tiro-19.wav	Tiro 19	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			Deagle.33.wav | sound_007z (9).wav		
+armas/deagle-9mm/tiro-20.wav	Tiro 20	deagle-9mm	tiro	007	deagle-9mm			Deagle.40.wav | Deagle.40 (1).wav | sound_007z (10).wav		
+armas/deagle-9mm/tiro-21.wav	Tiro 21	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.48.wav		
+armas/deagle-9mm/tiro-22.wav	Tiro 22	deagle-9mm	tiro	007	deagle-9mm,shotgun			Deagle.66.wav | Deagle.66.mp3 | Deagle (25).mp3		
+armas/deagle-9mm/tiro-23.wav	Tiro 23	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle.0082.wav		
+armas/deagle-9mm/tiro-24.wav	Tiro 24	deagle-9mm	tiro	007	deagle-9mm,shotgun			deagle.wav		
+armas/deagle-9mm/tiro-25.wav	Tiro 25	deagle-9mm	tiro	008	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle1.WAV | sound_008-33.WAV		
+armas/deagle-9mm/tiro-26.wav	Tiro 26	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country,ak-m4			Deagle2.wav | sound_007 (12).wav		
+armas/deagle-9mm/tiro-27.wav	Tiro 27	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			Deagle5.wav	Tiro 50 (deagle-9mm)	
+armas/deagle-9mm/tiro-28.wav	Tiro 28	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			DeagleSound2.wav		
+armas/deagle-9mm/tiro-29.wav	Tiro 29	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			DeagleSound8.wav		
+armas/deagle-9mm/tiro-30.wav	Tiro 30	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			shotgun_nitro.wav | Deagle (20).wav | Deagle 3333.wav | soundPc.wav | sound_023 (3).wav		
+armas/deagle-9mm/tiro-31.wav	Tiro 31	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sniper.wav | sound_007 (4).wav | sound_007_31.wav | sound_007z (25).wav | sound_022.wav | sound_028 (8).wav		
+armas/deagle-9mm/tiro-32.wav	Tiro 32	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (1).wav		
+armas/deagle-9mm/tiro-33.wav	Tiro 33	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sound_007 (2).wav		
+armas/deagle-9mm/tiro-34.wav	Tiro 34	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			Sound_007 (3).wav	Tiro 42 (deagle-9mm)	
+armas/deagle-9mm/tiro-35.wav	Tiro 35	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9,sniper-country			sound_007 (5).wav		
+armas/deagle-9mm/tiro-36.wav	Tiro 36	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007 (6).wav		
+armas/deagle-9mm/tiro-37.wav	Tiro 37	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4,mp5,uzi-tec9			sound_007 (7).wav		
+armas/deagle-9mm/tiro-38.wav	Tiro 38	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9			sound_007 (8).wav		
+armas/deagle-9mm/tiro-39.wav	Tiro 39	deagle-9mm	tiro	007	deagle-9mm,ak-m4			sound_007 (10).wav		
+armas/deagle-9mm/tiro-40.wav	Tiro 40	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (11).wav		
+armas/deagle-9mm/tiro-41.wav	Tiro 41	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (13).wav		
+armas/deagle-9mm/tiro-42.wav	Tiro 42	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (14).wav | sound_028c (8).wav	Tiro 34 (deagle-9mm)	
+armas/deagle-9mm/tiro-43.wav	Tiro 43	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (15).wav		
+armas/deagle-9mm/tiro-44.wav	Tiro 44	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (16).wav		
+armas/deagle-9mm/tiro-45.wav	Tiro 45	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007 (17).wav		
+armas/deagle-9mm/tiro-46.wav	Tiro 46	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (18).wav		
+armas/deagle-9mm/tiro-47.wav	Tiro 47	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007 (19).wav		
+armas/deagle-9mm/tiro-48.wav	Tiro 48	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007_3.wav | sound_007z (23).wav		
+armas/deagle-9mm/tiro-49.wav	Tiro 49	deagle-9mm	tiro	007	deagle-9mm			sound_007_4.wav		
+armas/deagle-9mm/tiro-50.wav	Tiro 50	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_007_27.wav	Tiro 27 (deagle-9mm)	
+armas/deagle-9mm/tiro-51.wav	Tiro 51	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			Sound_007_29.wav		
+armas/deagle-9mm/tiro-52.wav	Tiro 52	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5,uzi-tec9			sound_007_32.wav		
+armas/deagle-9mm/tiro-53.wav	Tiro 53	deagle-9mm	tiro	007	deagle-9mm,ak-m4			sound_007-11.wav		
+armas/deagle-9mm/tiro-54.wav	Tiro 54	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007-17.wav		
+armas/deagle-9mm/tiro-55.wav	Tiro 55	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007-22.wav		
+armas/deagle-9mm/tiro-56.wav	Tiro 56	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007-23.wav		
+armas/deagle-9mm/tiro-57.wav	Tiro 57	deagle-9mm	tiro	007	deagle-9mm,shotgun,sniper-country			sound_007-24.WAV | sound_007-25.WAV | sound_007z (22).WAV		
+armas/deagle-9mm/tiro-58.wav	Tiro 58	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_007.wav		
+armas/deagle-9mm/tiro-59.wav	Tiro 59	deagle-9mm	tiro	007	deagle-9mm			sound_007z (1).wav		
+armas/deagle-9mm/tiro-60.wav	Tiro 60	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007z (4).wav		
+armas/deagle-9mm/tiro-61.wav	Tiro 61	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9			sound_007z (5).wav		
+armas/deagle-9mm/tiro-62.wav	Tiro 62	deagle-9mm	tiro	007	deagle-9mm,ak-m4,mp5,uzi-tec9,shotgun			sound_007z (8).wav		
+armas/deagle-9mm/tiro-63.wav	Tiro 63	deagle-9mm	tiro	007	deagle-9mm,sniper-country			sound_007z (14).wav		
+armas/deagle-9mm/tiro-64.wav	Tiro 64	deagle-9mm	tiro	007	ak-m4,sniper-country,mp5,deagle-9mm			sound_007z (16).wav		
+armas/deagle-9mm/tiro-65.wav	Tiro 65	deagle-9mm	tiro	007	deagle-9mm			sound_007z (17).wav		
+armas/deagle-9mm/tiro-66.wav	Tiro 66	deagle-9mm	tiro	007	deagle-9mm,sniper-country,ak-m4			sound_007z (20).wav		
+armas/deagle-9mm/tiro-67.wav	Tiro 67	deagle-9mm	tiro	007	sniper-country,ak-m4,shotgun,deagle-9mm			sound_007z (21).wav	Tiro 13 (sniper-country)	
+armas/deagle-9mm/tiro-68.wav	Tiro 68	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_007z (26).wav		
+armas/deagle-9mm/tiro-69.wav	Tiro 69	deagle-9mm	tiro	007	deagle-9mm,shotgun			sound_007z (27).wav		
+armas/deagle-9mm/tiro-70.wav	Tiro 70	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country			sound_007z (28).wav		
+armas/deagle-9mm/tiro-71.wav	Tiro 71	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4			sound_007z (29).wav		
+armas/deagle-9mm/tiro-72.wav	Tiro 72	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,sniper-country			sound_007z (30).wav		
+armas/deagle-9mm/tiro-73.wav	Tiro 73	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_008 (2).wav		
+armas/deagle-9mm/tiro-74.wav	Tiro 74	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5			sound_008 (3).wav		
+armas/deagle-9mm/tiro-75.wav	Tiro 75	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4			sound_008 (5).wav		
+armas/deagle-9mm/tiro-76.wav	Tiro 76	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,mp5			sound_008 (6).wav		
+armas/deagle-9mm/tiro-77.wav	Tiro 77	deagle-9mm	tiro	008	deagle-9mm,shotgun			sound_008 (8).wav		
+armas/deagle-9mm/tiro-78.wav	Tiro 78	deagle-9mm	tiro	008	deagle-9mm			sound_008 (9).wav		
+armas/deagle-9mm/tiro-79.wav	Tiro 79	deagle-9mm	tiro	008	deagle-9mm,ak-m4,shotgun			sound_008_1.wav		
+armas/deagle-9mm/tiro-80.wav	Tiro 80	deagle-9mm	tiro	008	deagle-9mm,sniper-country,ak-m4			sound_008_5.wav | sound_008_1 (1).wav		
+armas/deagle-9mm/tiro-81.wav	Tiro 81	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country			sound_008_6.wav | sound_008_27.wav		
+armas/deagle-9mm/tiro-82.wav	Tiro 82	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country			sound_008_28.wav		
+armas/deagle-9mm/tiro-83.wav	Tiro 83	deagle-9mm	tiro	008	deagle-9mm			sound_008_29.wav		
+armas/deagle-9mm/tiro-84.wav	Tiro 84	deagle-9mm	tiro	008	deagle-9mm,ak-m4			sound_008_34.wav		
+armas/deagle-9mm/tiro-85.wav	Tiro 85	deagle-9mm	tiro	008	ak-m4,mp5,deagle-9mm,shotgun			sound_008_36.wav | sound_008 (1).wav		
+armas/deagle-9mm/tiro-86.wav	Tiro 86	deagle-9mm	tiro	008	deagle-9mm,ak-m4			sound_008-22.wav		
+armas/deagle-9mm/tiro-87.wav	Tiro 87	deagle-9mm	tiro	007	deagle-9mm,shotgun,ak-m4,mp5			sound_008-26.wav | sound_007 (9).wav | sound_007z (7).wav		
+armas/deagle-9mm/tiro-88.wav	Tiro 88	deagle-9mm	tiro	008	deagle-9mm,shotgun,sniper-country			sound_008-27.WAV | sound_008 (4).wav		
+armas/deagle-9mm/tiro-89.wav	Tiro 89	deagle-9mm	tiro	008	deagle-9mm			sound_008-37.wav		
+armas/deagle-9mm/tiro-90.wav	Tiro 90	deagle-9mm	tiro	008	deagle-9mm,shotgun,ak-m4,sniper-country,mp5,uzi-tec9			sound_008.wav		
+armas/deagle-9mm/tiro-91.wav	Tiro 91	deagle-9mm	tiro	007	ak-m4,deagle-9mm,shotgun,sniper-country,mp5,uzi-tec9			sound_027 (1).wav | sound_007z (13).wav		
+armas/deagle-9mm/tiro-92.wav	Tiro 92	deagle-9mm	tiro	007	deagle-9mm,sniper-country			Deagle (52).wav		
+armas/uzi-tec9/tiro-01.wav	Tiro 01	uzi-tec9	tiro	001	ak-m4,mp5,uzi-tec9			sound_001.wav		
+armas/uzi-tec9/tiro-02.wav	Tiro 02	uzi-tec9	tiro	002	deagle-9mm,uzi-tec9			sound_00002.wav		
+armas/mp5/tiro-01.wav	Tiro 01	mp5	tiro	018	ak-m4,deagle-9mm,shotgun,mp5			sound_018 (1).wav		
+armas/mp5/tiro-02.wav	Tiro 02	mp5	tiro	018	ak-m4,deagle-9mm,shotgun,mp5			sound_018 (2).wav		
+armas/shotgun/tiro-01.wav	Tiro 01	shotgun	tiro	023	deagle-9mm,shotgun,ak-m4			4.wav | sound_023_2.wav		
+armas/shotgun/tiro-02.wav	Tiro 02	shotgun	tiro	022	shotgun,deagle-9mm			Shotgun (1).wav | Shotgun (1).mp3		
+armas/shotgun/tiro-03.wav	Tiro 03	shotgun	tiro	022	deagle-9mm,shotgun,sniper-country,ak-m4			Shotgun_58.wav		
+armas/shotgun/tiro-04.wav	Tiro 04	shotgun	tiro	022	shotgun,uzi-tec9			Shotgun.3.wav		
+armas/shotgun/tiro-05.wav	Tiro 05	shotgun	tiro	022	ak-m4,shotgun,deagle-9mm,sniper-country			sound_022 (1).wav		
+armas/shotgun/tiro-06.wav	Tiro 06	shotgun	tiro	022	shotgun			sound_022 (3).wav | sound_007z (18).wav | sound_023 (1).wav		
+armas/shotgun/tiro-07.wav	Tiro 07	shotgun	tiro	022	deagle-9mm,shotgun			sound_022 (4).wav		
+armas/shotgun/tiro-08.wav	Tiro 08	shotgun	tiro	022	deagle-9mm,shotgun,ak-m4			sound_022_1.wav | sound_004b (5).wav | sound_022 (2).wav | sound_022_3.wav | sound_023_6.wav		
+armas/shotgun/tiro-09.wav	Tiro 09	shotgun	tiro	022	deagle-9mm,shotgun,sniper-country			sound_022-2.wav		
+armas/shotgun/tiro-10.wav	Tiro 10	shotgun	tiro	022	sniper-country,shotgun			sound_022-7.wav		
+armas/shotgun/tiro-11.wav	Tiro 11	shotgun	tiro	022	shotgun,ak-m4			sound_022-20.wav		
+armas/shotgun/tiro-12.wav	Tiro 12	shotgun	tiro	022	ak-m4,shotgun,deagle-9mm,mp5			sound_022f.wav		
+armas/shotgun/tiro-13.wav	Tiro 13	shotgun	tiro	023	deagle-9mm,shotgun			sound_023 (4).wav		
+armas/shotgun/tiro-14.wav	Tiro 14	shotgun	tiro	023	shotgun			sound_023_1.wav		
+armas/shotgun/tiro-15.wav	Tiro 15	shotgun	tiro	023	deagle-9mm,shotgun			sound_023_5.wav		
+armas/shotgun/tiro-16.wav	Tiro 16	shotgun	tiro	023	deagle-9mm,shotgun			sound_023-4.wav | sound_023 (2).wav		
+armas/shotgun/tiro-17.wav	Tiro 17	shotgun	tiro	023	deagle-9mm,shotgun,ak-m4			sound_023-15.wav		
+armas/shotgun/tiro-18.wav	Tiro 18	shotgun	tiro	023	shotgun			sound_023.wav | sound_022-5.wav | sound_023-5.wav | Shotgun.mp3		
+armas/shotgun/tiro-19.wav	Tiro 19	shotgun	tiro	022	shotgun			sound_028c (7).wav		
+armas/sniper-country/tiro-01.wav	Tiro 01	sniper-country	tiro	027	shotgun,deagle-9mm,sniper-country,ak-m4			Rifle4.wav		
+armas/sniper-country/tiro-02.wav	Tiro 02	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sniper_027.wav | sniper_028.wav		
+armas/sniper-country/tiro-03.wav	Tiro 03	sniper-country	tiro	027	sniper-country			sniper_028-1.wav | sound_027 (3).wav | sound_027_6.wav		
+armas/sniper-country/tiro-04.wav	Tiro 04	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (2).wav		
+armas/sniper-country/tiro-05.wav	Tiro 05	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (4).wav		
+armas/sniper-country/tiro-06.wav	Tiro 06	sniper-country	tiro	027	ak-m4,deagle-9mm,shotgun,sniper-country			sound_027 (6).wav		
+armas/sniper-country/tiro-07.wav	Tiro 07	sniper-country	tiro	027	sniper-country			sound_027 (7).wav | sound_028 (9).wav		
+armas/sniper-country/tiro-08.wav	Tiro 08	sniper-country	tiro	027	sniper-country			sound_027 (9).wav		
+armas/sniper-country/tiro-09.wav	Tiro 09	sniper-country	tiro	027	sniper-country,deagle-9mm,shotgun			sound_027 (10).wav		
+armas/sniper-country/tiro-10.wav	Tiro 10	sniper-country	tiro	027	sniper-country			sound_027 (do mp3).wav | sound_027.mp3	Tiro 22 (sniper-country)	
+armas/sniper-country/tiro-11.wav	Tiro 11	sniper-country	tiro	027	sniper-country,deagle-9mm			sound_027_1.wav | sound_027 (5).wav		
+armas/sniper-country/tiro-12.wav	Tiro 12	sniper-country	tiro	027	deagle-9mm,shotgun,sniper-country,ak-m4			Sound_027_2.wav		
+armas/sniper-country/tiro-13.wav	Tiro 13	sniper-country	tiro	027	sniper-country,ak-m4,shotgun,deagle-9mm			sound_027_5.wav | SOUND_10.wav | sound_027 (8).wav	Tiro 67 (deagle-9mm)	
+armas/sniper-country/tiro-14.wav	Tiro 14	sniper-country	tiro	027	ak-m4,sniper-country,shotgun,deagle-9mm			sound_027-1.wav		
+armas/sniper-country/tiro-15.wav	Tiro 15	sniper-country	tiro	027	sniper-country			sound_027.wav | sound_028.wav		
+armas/sniper-country/tiro-16.wav	Tiro 16	sniper-country	tiro	028	sniper-country,ak-m4			sound_028 (1).wav		
+armas/sniper-country/tiro-17.wav	Tiro 17	sniper-country	tiro	028	sniper-country			sound_028 (2).wav		
+armas/sniper-country/tiro-18.wav	Tiro 18	sniper-country	tiro	028	ak-m4,sniper-country			sound_028 (3).WAV		
+armas/sniper-country/tiro-19.wav	Tiro 19	sniper-country	tiro	028	ak-m4,shotgun,deagle-9mm,sniper-country			sound_028 (4).wav		
+armas/sniper-country/tiro-20.wav	Tiro 20	sniper-country	tiro	028	sniper-country			sound_028 (5).wav		
+armas/sniper-country/tiro-21.wav	Tiro 21	sniper-country	tiro	028	sniper-country			sound_028 (7).wav		
+armas/sniper-country/tiro-22.wav	Tiro 22	sniper-country	tiro	028	sniper-country			sound_028_1.wav	Tiro 10 (sniper-country)	
+armas/sniper-country/tiro-23.wav	Tiro 23	sniper-country	tiro	028	sniper-country			sound_028_2.wav | sound_027 (1) (1).wav		
+armas/sniper-country/tiro-24.wav	Tiro 24	sniper-country	tiro	028	ak-m4,shotgun,deagle-9mm,sniper-country			sound_028_5.wav | sound_028 (6).wav		
+armas/sniper-country/tiro-25.wav	Tiro 25	sniper-country	tiro	028	sniper-country			sound_028c (1).wav		
+armas/sniper-country/tiro-26.wav	Tiro 26	sniper-country	tiro	028	sniper-country			sound_028c (2).wav		
+armas/sniper-country/tiro-27.wav	Tiro 27	sniper-country	tiro	028	sniper-country			sound_028c (3).wav		
+armas/sniper-country/tiro-28.wav	Tiro 28	sniper-country	tiro	028	sniper-country			sound_028c (4).wav		
+armas/sniper-country/tiro-29.wav	Tiro 29	sniper-country	tiro	028	sniper-country,ak-m4,deagle-9mm,shotgun			sound_028c (5).wav		
+armas/sniper-country/tiro-30.wav	Tiro 30	sniper-country	tiro	027	sniper-country			sound_007-1.wav		
+armas/sniper-country/tiro-31.wav	Tiro 31	sniper-country	tiro	027	sniper-country			sound_007z (19).wav		
+armas/sniper-country/tiro-32.wav	Tiro 32	sniper-country	tiro	027	sniper-country			sound_028-1.wav | sound_007z (15).wav		
+armas/silenciada/tiro-01.wav	Tiro 01	silenciada	tiro	025	silenciada			sound_025 (1).wav		
+armas/silenciada/tiro-02.wav	Tiro 02	silenciada	tiro	025	silenciada			sound_025 (2).wav		
+armas/silenciada/tiro-03.wav	Tiro 03	silenciada	tiro	025	silenciada			sound_025.wav		
+hitsound/hitsound-22.wav	Hitsound 22	hitsound	hitsound		hitsound,headshot			2.wav | 2.mp3		
+armas/shotgun/tiro-20.wav	Tiro 20	shotgun	tiro	022	shotgun			4-1.wav		Shotgun
+armas/shotgun/tiro-21.wav	Tiro 21	shotgun	tiro	022	shotgun			6.wav		Shotgun
+hitsound/hitsound-23.wav	Hitsound 23	hitsound	hitsound					15.wav		
+armas/deagle-9mm/tiro-93.wav	Tiro 93	deagle-9mm	tiro	007	deagle-9mm			sound_0232.wav		
+hitsound/hitsound-01.wav	Hitsound 01	hitsound	hitsound					Bell (2).wav | Bell (2).mp3		
+hitsound/hitsound-02.wav	Hitsound 02	hitsound	hitsound					Bell (18).wav | Pain (26).wav		
+hitsound/hitsound-03.wav	Hitsound 03	hitsound	hitsound					Bell (30).wav | Belllll (1).wav | sound_003 (4).wav		
+hitsound/hitsound-04.wav	Hitsound 04	hitsound	hitsound					Bell 300.wav | Bell 300.mp3		
+hitsound/hitsound-05.wav	Hitsound 05	hitsound	hitsound					Bell5.wav | Bell5.mp3		
+hitsound/hitsound-06.wav	Hitsound 06	hitsound	hitsound					Bell14.wav | Bell14.mp3 | hit sound (17).mp3		
+hitsound/hitsound-07.wav	Hitsound 07	hitsound	hitsound					Bell15.wav		
+hitsound/hitsound-08.wav	Hitsound 08	hitsound	hitsound					hit sound (10).wav		
+hitsound/hitsound-09.wav	Hitsound 09	hitsound	hitsound					hit_sound_6.wav | hit_sound_6.mp3		
+hitsound/hitsound-10.wav	Hitsound 10	hitsound	hitsound					Hit.8.wav | Hit.8.mp3 | Bell 333.mp3		
+hitsound/hitsound-11.wav	Hitsound 11	hitsound	hitsound					Hit.52.wav | Hit.52.mp3 | hit sound (14).mp3 | hit_sound_14.mp3		
+hitsound/hitsound-12.wav	Hitsound 12	hitsound	hitsound					hitsound3.wav		
+hitsound/hitsound-13.wav	Hitsound 13	hitsound	hitsound					hitsound6.wav		
+hitsound/hitsound-14.wav	Hitsound 14	hitsound	hitsound					Pain (9).wav | Pain (9).mp3 | hit sound (13).mp3		
+hitsound/hitsound-15.wav	Hitsound 15	hitsound	hitsound					sound_003 (2).wav		
+hitsound/hitsound-16.wav	Hitsound 16	hitsound	hitsound					sound_003 (5).wav		
+hitsound/hitsound-17.wav	Hitsound 17	hitsound	hitsound					sound_003 (do mp3).wav | sound_003.mp3		
+hitsound/hitsound-18.wav	Hitsound 18	hitsound	hitsound					sound_003_3.wav | hit sound (10).mp3		
+hitsound/hitsound-19.wav	Hitsound 19	hitsound	hitsound					sound_003-1.wav		
+hitsound/hitsound-20.wav	Hitsound 20	hitsound	hitsound					sound_003 (1).wav		
+hitsound/hitsound-21.wav	Hitsound 21	hitsound	hitsound					sound_003 (3).wav		
+headshot/headshot-01.wav	Headshot 01	headshot	hitsound					hit sound (3).wav		
+headshot/headshot-02.wav	Headshot 02	headshot	hitsound					Hit.1.wav | Hit.1.mp3		
+headshot/headshot-03.wav	Headshot 03	headshot	hitsound					sound_003.wav		
+sirenes/gta-iii/sirene-longa.wav	Sirene longa	sirene-gta-iii	sirene	011				sirenes/GTA III/sound_011.wav		
+sirenes/gta-iii/sirene-curta.wav	Sirene curta	sirene-gta-iii	sirene	012				sirenes/GTA III/sound_012.wav		
+sirenes/outra/sirene-longa.wav	Sirene longa	sirene-outra	sirene	011				sirenes/GTA III qual é o verdadeiro/sound_011.wav		
+sirenes/outra/sirene-curta.wav	Sirene curta	sirene-outra	sirene	012				sirenes/GTA III qual é o verdadeiro/sound_012.wav		
+sirenes/gta-iv/sirene-longa.wav	Sirene longa	sirene-gta-iv	sirene	011				sirenes/GTA IV/sound_011.wav		
+sirenes/gta-iv/sirene-curta.wav	Sirene curta	sirene-gta-iv	sirene	012				sirenes/GTA IV/sound_012.wav		
